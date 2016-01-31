@@ -1,0 +1,536 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"text-t",
+				"text-transform"
+			],
+			[
+				"style",
+				"list-style"
+			],
+			[
+				"borer-r",
+				"border-radius"
+			],
+			[
+				"tex-",
+				"text-align"
+			],
+			[
+				"get",
+				"getBookMark"
+			],
+			[
+				"list",
+				"bookmark_list"
+			],
+			[
+				"bookma",
+				"bookmark_list"
+			],
+			[
+				"set",
+				"setBookmark"
+			],
+			[
+				"query",
+				"querySelector"
+			],
+			[
+				"inser",
+				"insert"
+			],
+			[
+				"json",
+				"jsonObj"
+			],
+			[
+				"add",
+				"addRows"
+			],
+			[
+				"cloc",
+				"clock"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"have",
+				"have_posts"
+			],
+			[
+				"get_style",
+				"get_stylesheet_uri"
+			],
+			[
+				"wp_",
+				"wp_head"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 1546,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "Package Control: ins",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/sarab/Desktop/ihack"
+	],
+	"file_history":
+	[
+		"/Users/sarab/Desktop/ihack/placeholder.html",
+		"/Users/sarab/Desktop/RapidPrototype/fancyassbutton.html",
+		"/Users/sarab/Desktop/RapidPrototype/css/font-awesome.css",
+		"/Users/sarab/Desktop/RapidPrototype/js/jq.js",
+		"/Users/sarab/Desktop/RapidPrototype/css/custom.css",
+		"/Users/sarab/Desktop/RapidPrototype/js/custom2.js",
+		"/Users/sarab/Desktop/RapidPrototype/todo.html",
+		"/Users/sarab/Desktop/RapidPrototype/css/bootstrap.min.css",
+		"/Users/sarab/Desktop/RapidPrototype/index.html",
+		"/Users/sarab/Desktop/RapidPrototype/Tmr.js.html",
+		"/Users/sarab/Desktop/RapidPrototype/js/custom.js",
+		"/Users/sarab/Desktop/RapidPrototype/img/Rectangle 95.png",
+		"/Users/sarab/Desktop/Presentation/ppt.html",
+		"/Users/sarab/Desktop/Real Ipsum/index.html",
+		"/Users/sarab/Desktop/Presentation/detailpage.html",
+		"/Users/sarab/Desktop/QP/pagebuilder/header.php",
+		"/Users/sarab/Desktop/QP/css/reveal.css",
+		"/Users/sarab/Desktop/QP/CredrUX-Detail Page.php",
+		"/Users/sarab/Desktop/QP/CredrUX-Inspection Page.php",
+		"/Users/sarab/Desktop/QP/index.php",
+		"/Users/sarab/Desktop/QP/pagebuilder/footer.php",
+		"/Users/sarab/Desktop/QP/home_list_logic.php",
+		"/Users/sarab/Desktop/QP/CredrUX-ThatQuickFastPresentation.php",
+		"/Users/sarab/Desktop/QP/pagebuilder/home_list_logic.php",
+		"/Users/sarab/Desktop/QP/_ux/CredrUX-anything.php",
+		"/Users/sarab/Desktop/QP/CredrUX-something.php",
+		"/Users/sarab/Desktop/QP/CredrUX-anything.php",
+		"/Users/sarab/Desktop/QP/CredrUX-new-quick-presentation-by-mukesh.php",
+		"/Users/sarab/Desktop/QP/CredrUX-yet another page.php",
+		"/Users/sarab/Desktop/Presentation/piechart.html",
+		"/Users/sarab/Desktop/QP/CredrUX-MockupThing.html",
+		"/Users/sarab/Desktop/QP/CredrUX-Whatsup.html",
+		"/Users/sarab/Desktop/QP/CredrUX-PPT1.html",
+		"/Users/sarab/Desktop/QP/abc.html",
+		"/index.php",
+		"/Users/sarab/Desktop/BookHub/css/style.css",
+		"/Users/sarab/Desktop/BookHub/js/bookhub.js",
+		"/Users/sarab/Desktop/BookHub/index.html",
+		"/Users/sarab/Desktop/BookHub/js/materialize.min.js",
+		"/Users/sarab/Desktop/BookHub/js/materialize.js",
+		"/Users/sarab/Desktop/BookHub/css/materialize.css",
+		"/Users/sarab/Desktop/BookHub/css/materialize.min.css",
+		"/Users/sarab/Desktop/BookHub/js/previous.js",
+		"/Users/sarab/Desktop/BookHub/random.html",
+		"/Users/sarab/Desktop/BookHub/ex.html",
+		"/Users/sarab/Desktop/Real Ipsum/css/custom.css",
+		"/Users/sarab/Desktop/script.py",
+		"/Users/sarab/Desktop/data.json",
+		"/Users/sarab/Desktop/blog/script.py",
+		"/Users/sarab/Desktop/blog/data.json",
+		"/Users/sarab/Desktop/blog/_site/css/main.css",
+		"/Users/sarab/Desktop/blog/css/main.css",
+		"/Users/sarab/Desktop/blog/_includes/header.html",
+		"/Users/sarab/Desktop/blog/_site/index.html",
+		"/Users/sarab/Desktop/blog/index.html",
+		"/Users/sarab/Desktop/blog/_site/css/main.scss",
+		"/Users/sarab/Desktop/blog/css/main.scss",
+		"/Users/sarab/Desktop/blog/_config.yml",
+		"/Users/sarab/Desktop/blog/_includes/footer.html",
+		"/Users/sarab/Desktop/blog/_sass/_syntax-highlighting.scss",
+		"/Users/sarab/Desktop/blog/_sass/_base.scss",
+		"/Users/sarab/Desktop/blog/_sass/_layout.scss",
+		"/Users/sarab/Desktop/Presentation/index.html",
+		"/Users/sarab/Desktop/Presentation/untitled",
+		"/Users/sarab/Desktop/note.txt",
+		"/Users/sarab/Desktop/Projects/VelleKam/js/garrage.js",
+		"/Users/sarab/Desktop/Projects/VelleKam/css/garrage.css",
+		"/Users/sarab/Desktop/Projects/VelleKam/piechart.html",
+		"/Users/sarab/Desktop/Projects/VelleKam/garrage.html",
+		"/Users/sarab/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/sarab/Desktop/Projects/VelleKam/css/chartthing.css",
+		"/Users/sarab/Desktop/Projects/VelleKam/3dcircleincss.html",
+		"/Users/sarab/Desktop/Projects/VelleKam/3dcircleincss",
+		"/Users/sarab/Desktop/Projects/VelleKam/css/3dcircle.css",
+		"/Users/sarab/nodeproject/nodeserver.js",
+		"/Users/sarab/nodeproject/book.js",
+		"/Users/sarab/1.rb",
+		"/Users/sarab/Desktop/Projects/VelleKam/css/gstyle.css",
+		"/Users/sarab/Desktop/Ofers.in/css/custom-blog.css",
+		"/Users/sarab/Desktop/Ofers.in/Blog.html",
+		"/Users/sarab/Desktop/Ofers.in/index.html",
+		"/Users/sarab/Desktop/Projects/VelleKam/bikerun.html",
+		"/Users/sarab/Desktop/Ofers.in/js/custom-blog.js",
+		"/Users/sarab/Desktop/extract/index.js",
+		"/Users/sarab/Desktop/Projects/VelleKam/scrap.php",
+		"/Users/sarab/Desktop/Projects/VelleKam/scrap.js",
+		"/Users/sarab/Desktop/Projects/VelleKam/something.html",
+		"/Users/sarab/Desktop/Projects/VelleKam/scrap.html",
+		"/Users/sarab/Desktop/Ofers.in/css/custom.css",
+		"/Users/sarab/Desktop/Projects/chatao/index.js",
+		"/Users/sarab/Desktop/Projects/chatao/index.html",
+		"/Users/sarab/Desktop/Projects/VelleKam/index.js",
+		"/Users/sarab/Desktop/Projects/VelleKam/style.css",
+		"/Users/sarab/Desktop/Projects/VelleKam/Random.html",
+		"/Users/sarab/Desktop/CredR/Day 6/summary.txt",
+		"/Users/sarab/Desktop/CredR/Day 6/example.html",
+		"/Applications/MAMP/htdocs/SmashVITians/js/main.js",
+		"/Users/sarab/Desktop/CredR/Day 4/summary.txt",
+		"/Users/sarab/Desktop/CredR/Day 3/summary.txt",
+		"/Users/sarab/Desktop/CredR/Day 1 /diary.txt",
+		"/Users/sarab/Desktop/CredR/Day 2/summary.txt",
+		"/Users/sarab/Desktop/CredR/Day 2/Random.html",
+		"/Users/sarab/Desktop/Projects/blog/sarablog/about.md",
+		"/Users/sarab/Desktop/Projects/blog/sarablog/_includes/head.html",
+		"/Users/sarab/Desktop/Projects/blog/sarablog/_includes/header.html",
+		"/Users/sarab/Desktop/Projects/blog/sarablog/_includes/footer.html",
+		"/Users/sarab/Desktop/Projects/blog/sarablog/css/main.scss",
+		"/Users/sarab/Desktop/Projects/blog/sarablog/_config.yml",
+		"/Users/sarab/Desktop/Projects/blog/sarablog/index.html",
+		"/Users/sarab/Desktop/CredR/Day 2/style.css",
+		"/Users/sarab/Desktop/CredR/Day 2/ani.js",
+		"/Users/sarab/Desktop/laugh/laugh.js",
+		"/Users/sarab/Desktop/laugh/laugh.html",
+		"/Users/sarab/Downloads/RaspCorp/js/vendor/slimpleslide.js",
+		"/Users/sarab/Downloads/basic-jquery-slider-master/index.html",
+		"/Users/sarab/Downloads/unslider-master/config.codekit",
+		"/Users/sarab/Downloads/RaspCorp/js/vendor/bjqs.js",
+		"/Users/sarab/Downloads/RaspCorp/css/app.css",
+		"/Users/sarab/Downloads/basic-jquery-slider-master/img/banner03.jpg",
+		"/Users/sarab/Downloads/basic-jquery-slider-master/img/banner01.jpg",
+		"/Users/sarab/Downloads/basic-jquery-slider-master/img/banner02.jpg",
+		"/Applications/MAMP/htdocs/SmashVITians/clearcookie.php",
+		"/Applications/MAMP/htdocs/SmashVITians/css/style.css",
+		"/Applications/MAMP/htdocs/SmashVITians/sql/retrive.php",
+		"/Applications/MAMP/htdocs/SmashVITians/header.php",
+		"/Users/sarab/Desktop/projects/HomePage/play.html",
+		"/Users/sarab/Desktop/projects/HomePage/blog.html",
+		"/Users/sarab/Desktop/projects/HomePage/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"credr50",
+			"email",
+			"lol",
+			"offset",
+			"height",
+			"id",
+			"inspec",
+			"review",
+			"inspec",
+			"push",
+			"inspection-re",
+			"4.7",
+			"style",
+			"a class='info",
+			"a class",
+			"info",
+			"\"info\"",
+			"\"info",
+			"class=",
+			".info",
+			"info",
+			"style",
+			"icons",
+			"g",
+			"span",
+			"bike deta",
+			"documents",
+			"pie",
+			"swf",
+			"url(\"../font",
+			"../font",
+			"http://mat",
+			".com",
+			"/font",
+			"click",
+			"generate",
+			"css",
+			".less",
+			"less",
+			"other",
+			"swf",
+			"revel.css",
+			">",
+			"top",
+			"class=\"rc\"",
+			"class=\"r\"",
+			"\"rc\"",
+			"rc",
+			"class=\"rc\"",
+			"class=\"r\"",
+			".r",
+			"$base-font-family",
+			"font",
+			"rasp",
+			"14MCA",
+			"20",
+			"name",
+			"user",
+			"built",
+			"name",
+			"high score",
+			"randomone",
+			"display",
+			"click",
+			"addEventlistener(\"click",
+			"addeventlistener(\"click",
+			".addevent",
+			"addeventListner",
+			"addeventLister",
+			"batchnum",
+			"batchno",
+			"game",
+			"share",
+			"one",
+			"addevent",
+			".box",
+			"trans",
+			"tran",
+			"box",
+			"margin",
+			"hover",
+			"arrow",
+			"fa",
+			"hover",
+			"line",
+			"right"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"url(\"http://materializecss.com/font\n",
+			"http://materializecss.com/font\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/sarab/Desktop/ihack"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1546,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								893,
+								893
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 253.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 307.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
